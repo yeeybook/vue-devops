@@ -2,7 +2,7 @@
   "name": "vue-devops",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ssafyprj.github.io/vue-devops",
+  "homepage": "https://ssafyprj.github.io/yeeybook/vue-devops",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
